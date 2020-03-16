@@ -1,7 +1,7 @@
 # Tugas C++ 19
 
 Hasil Output <br>
-Semoga bisa membantu teman"untuk listing contoh tugasnya bisa dilihat di file <strong>Tugas.cpp <br>
+Semoga bisa membantu teman" untuk listing contoh tugasnya bisa dilihat di file <strong>Tugas.cpp <br>
 untuk fungsi manipulator bisa kalian lihat pada komentar di flie <strong>Tugas.cpp <br>
 Dan sya menggunakan vs code sebagai pengganti IDE C++.
 
